@@ -1,5 +1,5 @@
 # YBIGTA-coding-test-study
-22-01 YBIGTA DA 코딩테스트 스터디(비대면 Team)
+22-02 YBIGTA 코딩테스트 스터디(비대면 Team)
 
 ## 스터디 멤버
 - 박슬빈, 백승연, 송유진, 이학민
