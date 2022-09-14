@@ -18,7 +18,7 @@
 - 박슬빈 : https://github.com/macang15/ybigta-coding-test-study
 - 백승연 : https://github.com/yeonannab/ybigta_algorithm
 - 송유진 : https://github.com/Yoojin730/Baekjoon
-- 이학민 :
+- 이학민 : https://github.com/lhmlhm1111/ybigta_codingtest
 
 ## 주차별 문제풀이 현황
 |이름|박슬빈|백승연|송유진|이학민|
